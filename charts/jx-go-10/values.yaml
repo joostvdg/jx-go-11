@@ -44,7 +44,7 @@ canary:
   host: acme.com
 
 service:
-  name: jx-go-10
+  name: jx-go-11
   type: ClusterIP
   externalPort: 80
   internalPort: 8080
